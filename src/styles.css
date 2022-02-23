@@ -1,0 +1,29 @@
+.App {
+  font-family: "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: space-around;
+  color: #59ad45;
+}
+
+.App .right {
+  padding: 3% 2%;
+}
+
+.App .right a {
+  background: linear-gradient(to right top, #6fd855, rgb(81, 202, 218));
+  color: #fff;
+  padding: 2%;
+
+  border-radius: 1.23rem;
+  text-decoration: none;
+}
+
+.App p {
+  margin-top: 10%;
+  color: #7e5123;
+  font-style: italic;
+}
+
+.App q {
+  color: rgb(50, 180, 197);
+}
